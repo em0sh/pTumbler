@@ -14,7 +14,7 @@ The total time it took was: 9 hours and 24 minutes.
 ## CAD
 <div align="center">
 <picture>
-  <img alt="pTumbler" src="/pTumbler.png" width="50%" height="50%">
+  <img alt="pTumbler" src="/pTumbler.png" width="100%" height="100%">
 </picture>
 
 <div align="left">
