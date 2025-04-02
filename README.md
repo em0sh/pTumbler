@@ -37,6 +37,3 @@ The total time it took was: 9 hours and 24 minutes.
 | 4        | Packs of 25 each | 91292A149   | 18-8 Stainless Steel Socket Head Screw M8 x 1.25 mm Thread, 30 mm Long    | 12.22      | 48.88       |
 | 1        | Pack of 100 each | 93475A270   | 18-8 Stainless Steel Washer for M8 Screw Size, 8.4 mm ID, 16 mm OD        | 12.52      | 12.52       |
 | 2        | Packs of 50 each | 94645A210   | High-Strength Steel Nylon-Insert Locknut Class 10, Zinc Plated, M8 x 1.25 mm Thread, 8 mm High | 11.16      | 22.32       |
-
-**Merchandise Total:** $2,006.42  
-*Applicable shipping and tax will be added.*
