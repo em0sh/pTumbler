@@ -1,15 +1,5 @@
 # pTumbler - an Open Source Part Tumbler
-This part tumbler was designed in a speed run that was streamed on X. The streams are below:
-
-Part 1 (3:44:00): https://x.com/i/broadcasts/1BdGYqbjyrBGX
-
-Part 2 (2:05:00): https://x.com/i/broadcasts/1vOGwXDeolDJB
-
-Part 3 (1:16:00): https://x.com/i/broadcasts/1dRKZYDmRjrxB
-
-Part 4 (2:19:00): https://x.com/i/broadcasts/1LyxBWZokRkKN
-
-The total time it took was: 9 hours and 24 minutes.
+This part tumbler was designed in a speed run. The total time it took was: 9 hours and 24 minutes.
 
 ## CAD
 <div align="center">
