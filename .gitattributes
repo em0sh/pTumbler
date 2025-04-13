@@ -1,2 +1,4 @@
 CAD/PTUMBLER-ASSY-A-01.step filter=lfs diff=lfs merge=lfs -text
 CAD/pTumblerMini-A-00.step filter=lfs diff=lfs merge=lfs -text
+CAD/PTUMBLERMINI-A-00.step filter=lfs diff=lfs merge=lfs -text
+CAD/PTUMBLERMINI-ASSY-A-00.step filter=lfs diff=lfs merge=lfs -text
