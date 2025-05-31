@@ -10,6 +10,7 @@ Location: CAD/PTUMBLERMINI-ASSY-A-00.step
 <picture>
   <img alt="pTumbler" src="/pTumblerMiniPhoto.jpeg" width="100%" height="100%">
 <div align="center">
+</picture>
 <picture>
   <img alt="pTumbler" src="/pTumblerMini.png" width="100%" height="100%">
 </picture>
