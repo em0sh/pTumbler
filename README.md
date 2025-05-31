@@ -13,14 +13,6 @@ Location: CAD/PTUMBLERMINI-ASSY-A-00.step
 
 <div align="left">
 
-### pTumbler (Big)
-Location: CAD/PTUMBLER-ASSY-A-00.step
-<div align="center">
-<picture>
-  <img alt="pTumbler" src="/pTumbler.png" width="100%" height="100%">
-</picture>
-
-<div align="left">
 
 
 
