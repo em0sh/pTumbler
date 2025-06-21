@@ -2,7 +2,5 @@ jupyter
 numpy
 matplotlib
 pyyaml
-mkdocs-material
-mkdocs-jupyter
 pint
 mip
