@@ -3,6 +3,8 @@ This part tumbler was originally designed in a speed run. The total time it took
 
 pTumbler Mini is a smaller, desktop version of the tumbler developed after the initial speedrun.
 
+pTumbler MiniCNC is a version of the Mini that can be CNC Milled or 3D printed
+
 ## CAD
 ### pTumbler (Mini)
 Location: CAD/PTUMBLERMINI-ASSY-A-00.step
