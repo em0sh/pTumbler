@@ -13,6 +13,7 @@ Location: CAD/PTUMBLERMINI-ASSY-A-00.step
 <picture>
   <img alt="pTumbler" src="/pTumblerMini.png" width="100%" height="100%">
 </picture>
+<div align="left">
 
 ### pTumbler (Mini CNC)
 Location: CAD/PTUMBLERMINICNC-ASSY-A-01.step
@@ -28,6 +29,7 @@ Location: CAD/PTUMBLERMINICNC-ASSY-A-01.step
 ## Bill of Materials
 ### pTumblerMiniCNC
 COTS BOM can be found here: https://docs.google.com/spreadsheets/d/1KuBy6TMrY6-mfPLBCzuUg-p9hhyDm8nuaYNuqmpWThU
+
 Parts BOM is built natively into the STEP file.
 
 ### pTumblerMini
@@ -50,4 +52,4 @@ Parts BOM is built natively into the STEP file.
 
 Total: $270.67
 
-https://docs.google.com/spreadsheets/d/1KuBy6TMrY6-mfPLBCzuUg-p9hhyDm8nuaYNuqmpWThU/edit?usp=sharing
+Parts BOM is built natively into the STEP file.
