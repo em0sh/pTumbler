@@ -6,20 +6,29 @@ pTumbler Mini is a smaller, desktop version of the tumbler developed after the i
 pTumbler MiniCNC is a version of the Mini that can be CNC Milled or 3D printed
 
 ## CAD
-### pTumbler (Mini)
-V1 (depreciated):
+### pTumblerHeavy
+<div align="left">
+This is the "heavy" version of the tumbler that is the most expensive but robust.
 <div align="center">
 <picture>
-  <img alt="pTumbler" src="/pTumblerMiniPhoto.jpeg" width="100%" height="100%">
+  <img alt="pTumbler" src="/pTumblerHeavyhPhoto.jpeg" width="100%" height="100%">
 </picture>
-<div align="left">
-V2:
 <picture>
   <img alt="pTumbler" src="/pTumblerMini.png" width="100%" height="100%">
 </picture>
 <div align="left">
 
+### pTumblerMini
+<div align="left">
+This is the most cost effective version (~$300 USD).
+<div align="center">
+<picture>
+  <img alt="pTumblerMiniCNC" src="/pTumblerMini.png" width="100%" height="100%">
+</picture>
+<div align="left">
+
 ### pTumbler (Mini CNC)
+This is the version of the tumbler that can be manufactured via CNC or FDM.
 <div align="center">
 <picture>
   <img alt="pTumblerMiniCNC" src="/pTumblerMiniCNC.png" width="100%" height="100%">
