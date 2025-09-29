@@ -7,11 +7,12 @@ pTumbler MiniCNC is a version of the Mini that can be CNC Milled or 3D printed
 
 ## CAD
 ### pTumbler (Mini)
-<div align="center">
 V1 (depreciated):
+<div align="center">
 <picture>
   <img alt="pTumbler" src="/pTumblerMiniPhoto.jpeg" width="100%" height="100%">
 </picture>
+<div align="left">
 V2:
 <picture>
   <img alt="pTumbler" src="/pTumblerMini.png" width="100%" height="100%">
