@@ -11,10 +11,10 @@ pTumbler MiniCNC is a version of the Mini that can be CNC Milled or 3D printed
 This is the "heavy" version of the tumbler that is the most expensive but robust.
 <div align="center">
 <picture>
-  <img alt="pTumbler" src="/pTumblerHeavyhPhoto.jpeg" width="100%" height="100%">
+  <img alt="pTumbler" src="/pTumblerHeavyPhoto.jpeg" width="100%" height="100%">
 </picture>
 <picture>
-  <img alt="pTumbler" src="/pTumblerMini.png" width="100%" height="100%">
+  <img alt="pTumbler" src="/pTumblerHeavy.png" width="100%" height="100%">
 </picture>
 <div align="left">
 
