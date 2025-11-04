@@ -5,6 +5,10 @@ pTumbler Mini is a smaller, desktop version of the tumbler developed after the i
 
 pTumbler MiniCNC is a version of the Mini that can be CNC Milled or 3D printed
 
+
+## SAFETY NOTICE
+These tumblers operate at noise levels that are unsafe for extended periods. Hearing protection gear must be used according to OSHA standards when operating this equipment.
+
 ## CAD
 ### pTumblerMini
 <div align="left">
